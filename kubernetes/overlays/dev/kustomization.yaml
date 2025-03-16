@@ -16,4 +16,4 @@ patches:
   patch: |-
     - op: replace
       path: /spec/template/spec/containers/0/image
-      value: ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/todo-app:dev 
+      value: 748809150323.dkr.ecr.us-west-2.amazonaws.com/todo-app:dev 
